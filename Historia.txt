@@ -6,3 +6,4 @@ y estoy probando un cambio por historia.
 Andrea entiende git
 
 Hoy veremos como usarlo localmente
+Mañana veremos en repositorios remotos
