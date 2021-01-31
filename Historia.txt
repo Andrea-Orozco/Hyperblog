@@ -1,5 +1,6 @@
 Este es un 
 
-archivo de prueba
+archivo de pruebas
+y estoy probando un cambio por historia.
 
 Andrea entiende git
